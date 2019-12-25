@@ -1,0 +1,28 @@
+
+ja:
+  activerecord:
+    models:
+      blog: 'ブログ'
+      user: 'ユーザ'
+    attributes:
+      blog:
+        title: 'タイトル'
+        content: '内容'
+      user:
+        email: 'メールアドレス'
+        password: 'パスワード'
+        password_confirmation: 'パスワード（確認用）'
+  view:
+    title: 'タイトル'
+    content: '内容'
+    deadline: '終了期限'
+    status: 'ステータス'
+    priority: '優先順位'
+    name: '名前'
+    email: 'メールアドレス'
+    password: 'パスワード'
+    password_confirmation: 'パスワード（確認用）'
+    sign_up: 'ユーザ登録'
+    login: 'ログイン'
+    admin: '管理者'
+    edit: '編集'
